@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1649525115354" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1649525589113" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1649525217731" />
+    </e>
+  </component>
+</application>

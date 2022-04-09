@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Gradle 7.1
+Build-JVM: 11.0.11 (AdoptOpenJDK 11.0.11+9)
+Version: 0.1-SNAPSHOT
+Build-Plugin: Gradle IntelliJ Plugin
+Build-Plugin-Version: 1.5.2
+Build-OS: Mac OS X 11.5 x86_64
+Build-SDK: IC-2020.3.1
+

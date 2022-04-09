@@ -1,0 +1,98 @@
+{
+  "appInfo" : {
+    "build" : "203.7717.56.2031.7935034",
+    "buildDate" : "Sun, 21 Nov 2021 00:35:01 -0500",
+    "productCode" : "AI",
+    "generated" : "Sat, 9 Apr 2022 12:33:16 -0500",
+    "os" : "macOS 11.5",
+    "runtime" : "AdoptOpenJDK 11.0.11 11.0.11+9"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 536870912,
+    "numberOfProcessors" : 12,
+    "maxNumberOfIndexingThreads" : 4,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "projectIndexingHistory" : {
+    "projectName" : "PruebasHooks",
+    "numberOfFileProviders" : 71,
+    "totalNumberOfFiles" : 73855,
+    "totalNumberOfUpToDateFiles" : 73854,
+    "times" : {
+      "totalUpdatingTime" : "2 s 64 ms",
+      "indexingTime" : "14 ms",
+      "pushPropertiesTime" : "33 ms",
+      "updatingStart" : "Sat, 9 Apr 2022 12:33:14 -0500",
+      "updatingEnd" : "Sat, 9 Apr 2022 12:33:16 -0500",
+      "wasInterrupted" : false
+    },
+    "numberOfIndexingThreads" : 4,
+    "totalStatsPerFileType" : [ {
+      "fileType" : "XML",
+      "partOfTotalIndexingTime" : "100.0%",
+      "partOfTotalContentLoadingTime" : "100.0%",
+      "totalNumberOfFiles" : 1,
+      "totalFilesSize" : "7.04 kB",
+      "indexingSpeed" : "426.78 MB/s",
+      "biggestContributors" : [ {
+        "providerName" : "Module 'PruebasHooks'",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "7.04 kB",
+        "partOfTotalIndexingTimeOfThisFileType" : "100.0%"
+      } ]
+    } ],
+    "totalStatsPerIndexer" : [ {
+      "indexId" : "FileNameWithoutExtensionIndex",
+      "partOfTotalIndexingTime" : "51.0%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "7.04 kB",
+      "indexingSpeed" : "837.56 MB/s"
+    }, {
+      "indexId" : "FilenameIndex",
+      "partOfTotalIndexingTime" : "25.4%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "7.04 kB",
+      "indexingSpeed" : "1.68 GB/s"
+    }, {
+      "indexId" : "filetypes",
+      "partOfTotalIndexingTime" : "23.7%",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesIndexedByExtensions" : 0,
+      "totalFilesSize" : "7.04 kB",
+      "indexingSpeed" : "1.8 GB/s"
+    } ],
+    "fileProviderStatistics" : [ {
+      "providerName" : "Module 'PruebasHooks'",
+      "totalNumberOfFiles" : 1,
+      "totalNumberOfFilesFullyIndexedByExtensions" : 1,
+      "totalIndexingTime" : "7 ms",
+      "statsPerFileType" : [ {
+        "fileType" : "XML",
+        "numberOfFiles" : 1,
+        "totalFilesSize" : "7.04 kB",
+        "partOfTotalIndexingTime" : "100.0%",
+        "partOfTotalContentLoadingTime" : "100.0%"
+      } ],
+      "statsPerIndexer" : [ {
+        "indexId" : "FileNameWithoutExtensionIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "51.0%"
+      }, {
+        "indexId" : "FilenameIndex",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "25.4%"
+      }, {
+        "indexId" : "filetypes",
+        "numberOfFiles" : 1,
+        "numberOfFilesIndexedByExtensions" : 0,
+        "partOfTotalIndexingTime" : "23.7%"
+      } ],
+      "fastIndexers" : [ ]
+    } ]
+  }
+}
